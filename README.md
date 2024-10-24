@@ -13,9 +13,8 @@
 [![Test QAIC Software kit Compilation](https://github.com/mlcommons/cm4mlops/actions/workflows/test-qaic-software-kit.yml/badge.svg)](https://github.com/mlcommons/cm4mlops/actions/workflows/test-qaic-software-kit.yml)
 
 
-The `mlperf-branch` of the **cm4mlops** repository contains updated CM scripts specifically for MLPerf Inference, including support for Automotive. Please note that the general CM scripts in this branch may not be compatible with other projects. For more information on using CM for MLPerf Inference, visit the [MLPerf Inference Documentation site](https://docs.mlcommons.org/inference/).
+This repository hosts the CM Automations `script` and `cache` and individual CM scripts for MLOps. For information on using CM for MLPerf Inference, visit the [MLPerf Inference Documentation site](https://docs.mlcommons.org/inference/).
 
-[![Streamline your MLPerf results using CM Framework](https://img.youtube.com/vi/eI1Hoecc3ho/0.jpg)](https://youtu.be/eI1Hoecc3ho)
 
 ## News
 
